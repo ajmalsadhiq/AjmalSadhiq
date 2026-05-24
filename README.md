@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=550&lines=Full-Stack+Developer+🚀;Problem+Solver+%26+Builder;C%2B%2B+%7C+Python+%7C+JavaScript;Always+learning%2C+always+shipping...;Welcome+to+my+profile!" alt="Typing SVG" />
+
+
 
 
 ## 🌐 Socials:
