@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&speed=50&color=58A6FF&width=550&lines=Software+Engineer+🚀;Problem+Solver+%26+Builder;C%2B%2B+%7C+Python+%7C+JavaScript;Always+learning%2C+always+shipping...;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=200&speed=50&color=58A6FF&width=550&lines=Software+Engineer+🚀;Problem+Solver+%26+Builder;C%2B%2B+%7C+Python+%7C+JavaScript;Always+learning%2C+always+shipping...;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 
 
