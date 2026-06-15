@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=200&speed=50&color=58A6FF&width=550&lines=Software+Engineer;Problem+Solver+%26+Builder;C%2B%2B+%7C+Python+%7C+JavaScript;Always+learning%2C+always+shipping...;Welcome+to+my+profile!)](https://git.io/typing-svg)
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ajmal_sadhique) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajmal-sadhiq-puthanpura-ebrahim-012ab0291) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajmalsadhiq7@gmail.com) 
 
